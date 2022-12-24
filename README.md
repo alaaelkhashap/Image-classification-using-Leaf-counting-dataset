@@ -12,12 +12,9 @@ Using https://vision.eng.au.dk/leaf-counting-dataset/
 
 
 ## Main topics covered in methodology
-* Transfer Learning - Classification Network
-  - VGG16
-  -  
-* Transfer Learning - Regression Reformulation
-  - VGG16
-  
+* Transfer Learning - Classification Network using VGG16
+
+* Transfer Learning - Regression Reformulation using VGG16  
 * Data Augmentation
   - ImageDataGenerator
 
